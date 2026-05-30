@@ -2,6 +2,9 @@
 
 紙にメッセージを添付できるようになります
 
+## Enviroment
+[Command API 11.1.0](https://docs.commandapi.dev/) 以上が必要
+
 ## Usage
 ***
 ```
