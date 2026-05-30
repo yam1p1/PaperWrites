@@ -1,0 +1,8 @@
+name: PaperWrites
+version: '${version}'
+
+main: io.github.yam1p1.paperWrites.PaperWrites
+api-version: '1.21'
+load: POSTWORLD
+
+authors: [ yamipi ]
