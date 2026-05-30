@@ -27,7 +27,6 @@ class MainLogic {
                 }
             }
         )
-        player.sendMessage(contents)
     }
 
     fun init(){
